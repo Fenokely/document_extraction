@@ -1,0 +1,277 @@
+[
+    {
+        "Date": "2023-03-20",
+        "Patient": "RANDRIAMISAINA HARIFIDY TAHIRY",
+        "TM": 100.0,
+        "NonRembourse": 0.0,
+        "Rembourse": 7000.0,
+        "Autre1": "DOLIPRANE 1 000 mg cp : B/8"
+    },
+    {
+        "Date": "2023-03-15",
+        "Patient": "RANDRIATSALAMA MBOLATAHINA OLIVA",
+        "TM": 80.0,
+        "NonRembourse": 2500.0,
+        "Rembourse": 10000.0,
+        "Autre1": "SOFT DROPS COLLYRE"
+    },
+    {
+        "Date": "2023-03-20",
+        "Patient": "RANDRIATSALAMA MBOLATAHINA OLIVA",
+        "TM": 80.0,
+        "NonRembourse": 11040.0,
+        "Rembourse": 44160.0,
+        "Autre1": "NOVATEN AM CP"
+    },
+    {
+        "Date": "2023-03-31",
+        "Patient": "RAZAFIALIVONISON FARANIRINA",
+        "TM": 80.0,
+        "NonRembourse": 5040.0,
+        "Rembourse": 20160.0,
+        "Autre1": "M LOSARTAN PLUS"
+    },
+    {
+        "Date": "2023-03-02",
+        "Patient": "RANDALANA ROGER",
+        "TM": 80.0,
+        "NonRembourse": 23600.0,
+        "Rembourse": 94400.0,
+        "Autre1": "COVERAM 10"
+    },
+    {
+        "Date": "2023-03-27",
+        "Patient": "RAJAOHARINAVALONA IRINDRA JOELLE",
+        "TM": 80.0,
+        "NonRembourse": 1400.0,
+        "Rembourse": 5600.0,
+        "Autre1": "DOLIPRANE 1 000 mg cp : B/8"
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 5920.0,
+        "Rembourse": 23680.0,
+        "Autre1": "CEFIX 200"
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 5640.0,
+        "Rembourse": 22560.0,
+        "Autre1": "FLAGYL cp enrob\u00e9 500 mg : 14"
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 3280.0,
+        "Rembourse": 13120.0,
+        "Autre1": "PROFENID suppos Ad 100 mg: 12"
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 6060.0,
+        "Rembourse": 24240.0,
+        "Autre1": "ESOFAG 20"
+    },
+    {
+        "Date": "2023-03-23",
+        "Patient": "RABE RATINARIVO HENINTSOA",
+        "TM": 80.0,
+        "NonRembourse": 2120.0,
+        "Rembourse": 8480.0,
+        "Autre1": "DOLOWIN PLUS 100MG"
+    },
+    {
+        "Date": "2023-03-20",
+        "Patient": "RANDRIAMISAINA HARIFIDY TAHIRY",
+        "TM": 100.0,
+        "NonRembourse": 0.0,
+        "Rembourse": 7000.0,
+        "Autre1": "DOLIPRANE 1 000 mg cp : B/8"
+    },
+    {
+        "Date": "2023-03-15",
+        "Patient": "RANDRIATSALAMA MBOLATAHINA OLIVA",
+        "TM": 80.0,
+        "NonRembourse": 2500.0,
+        "Rembourse": 10000.0,
+        "Autre1": "SOFT DROPS COLLYRE"
+    },
+    {
+        "Date": "2023-03-20",
+        "Patient": "RANDRIATSALAMA MBOLATAHINA OLIVA",
+        "TM": 80.0,
+        "NonRembourse": 11040.0,
+        "Rembourse": 44160.0,
+        "Autre1": "NOVATEN AM CP"
+    },
+    {
+        "Date": "2023-03-31",
+        "Patient": "RAZAFIALIVONISON FARANIRINA",
+        "TM": 80.0,
+        "NonRembourse": 5040.0,
+        "Rembourse": 20160.0,
+        "Autre1": "M LOSARTAN PLUS"
+    },
+    {
+        "Date": "2023-03-02",
+        "Patient": "RANDALANA ROGER",
+        "TM": 80.0,
+        "NonRembourse": 23600.0,
+        "Rembourse": 94400.0,
+        "Autre1": "COVERAM 10"
+    },
+    {
+        "Date": "2023-03-27",
+        "Patient": "RAJAOHARINAVALONA IRINDRA JOELLE",
+        "TM": 80.0,
+        "NonRembourse": 1400.0,
+        "Rembourse": 5600.0,
+        "Autre1": "DOLIPRANE 1 000 mg cp : B/8"
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 5920.0,
+        "Rembourse": 23680.0,
+        "Autre1": "CEFIX 200"
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 5640.0,
+        "Rembourse": 22560.0,
+        "Autre1": "FLAGYL cp enrob\u00e9 500 mg : 14"
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 3280.0,
+        "Rembourse": 13120.0,
+        "Autre1": "PROFENID suppos Ad 100 mg: 12"
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 6060.0,
+        "Rembourse": 24240.0,
+        "Autre1": "ESOFAG 20"
+    },
+    {
+        "Date": "2023-03-23",
+        "Patient": "RABE RATINARIVO HENINTSOA",
+        "TM": 80.0,
+        "NonRembourse": 2120.0,
+        "Rembourse": 8480.0,
+        "Autre1": "DOLOWIN PLUS 100MG"
+    },
+    {
+        "Date": "2023-03-20",
+        "Patient": "RANDRIAMISAINA HARIFIDY TAHIRY",
+        "TM": 100.0,
+        "NonRembourse": 0.0,
+        "Rembourse": 7000.0,
+        "Autre1": "DOLIPRANE 1 000 mg cp : B/8",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-15",
+        "Patient": "RANDRIATSALAMA MBOLATAHINA OLIVA",
+        "TM": 80.0,
+        "NonRembourse": 2500.0,
+        "Rembourse": 10000.0,
+        "Autre1": "SOFT DROPS COLLYRE",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-20",
+        "Patient": "RANDRIATSALAMA MBOLATAHINA OLIVA",
+        "TM": 80.0,
+        "NonRembourse": 11040.0,
+        "Rembourse": 44160.0,
+        "Autre1": "NOVATEN AM CP",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-31",
+        "Patient": "RAZAFIALIVONISON FARANIRINA",
+        "TM": 80.0,
+        "NonRembourse": 5040.0,
+        "Rembourse": 20160.0,
+        "Autre1": "M LOSARTAN PLUS",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-02",
+        "Patient": "RANDALANA ROGER",
+        "TM": 80.0,
+        "NonRembourse": 23600.0,
+        "Rembourse": 94400.0,
+        "Autre1": "COVERAM 10",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-27",
+        "Patient": "RAJAOHARINAVALONA IRINDRA JOELLE",
+        "TM": 80.0,
+        "NonRembourse": 1400.0,
+        "Rembourse": 5600.0,
+        "Autre1": "DOLIPRANE 1 000 mg cp : B/8",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 5920.0,
+        "Rembourse": 23680.0,
+        "Autre1": "CEFIX 200",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 5640.0,
+        "Rembourse": 22560.0,
+        "Autre1": "FLAGYL cp enrob\u00e9 500 mg : 14",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 3280.0,
+        "Rembourse": 13120.0,
+        "Autre1": "PROFENID suppos Ad 100 mg: 12",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-17",
+        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
+        "TM": 80.0,
+        "NonRembourse": 6060.0,
+        "Rembourse": 24240.0,
+        "Autre1": "ESOFAG 20",
+        "Page": 2
+    },
+    {
+        "Date": "2023-03-23",
+        "Patient": "RABE RATINARIVO HENINTSOA",
+        "TM": 80.0,
+        "NonRembourse": 2120.0,
+        "Rembourse": 8480.0,
+        "Autre1": "DOLOWIN PLUS 100MG",
+        "Page": 2
+    }
+]
