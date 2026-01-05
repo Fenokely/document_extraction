@@ -1,209 +1,578 @@
 [
     {
-        "Date": "2023-03-20",
-        "Patient": "RANDRIAMISAINA HARIFIDY TAHIRY",
-        "TM": 100.0,
-        "NonRembourse": 0.0,
-        "Rembourse": 7000.0,
-        "Autre1": "DOLIPRANE 1 000 mg cp : B/8",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-15",
-        "Patient": "RANDRIATSALAMA MBOLATAHINA OLIVA",
-        "TM": 80.0,
-        "NonRembourse": 2500.0,
-        "Rembourse": 10000.0,
-        "Autre1": "SOFT DROPS COLLYRE",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-20",
-        "Patient": "RANDRIATSALAMA MBOLATAHINA OLIVA",
-        "TM": 80.0,
-        "NonRembourse": 11040.0,
-        "Rembourse": 44160.0,
-        "Autre1": "NOVATEN AM CP",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-31",
-        "Patient": "RAZAFIALIVONISON FARANIRINA",
-        "TM": 80.0,
-        "NonRembourse": 5040.0,
-        "Rembourse": 20160.0,
-        "Autre1": "M LOSARTAN PLUS",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-02",
-        "Patient": "RANDALANA ROGER",
-        "TM": 80.0,
-        "NonRembourse": 23600.0,
-        "Rembourse": 94400.0,
-        "Autre1": "COVERAM 10",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-27",
-        "Patient": "RAJAOHARINAVALONA IRINDRA JOELLE",
-        "TM": 80.0,
-        "NonRembourse": 1400.0,
-        "Rembourse": 5600.0,
-        "Autre1": "DOLIPRANE 1 000 mg cp : B/8",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-17",
-        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
-        "TM": 80.0,
-        "NonRembourse": 5920.0,
-        "Rembourse": 23680.0,
-        "Autre1": "CEFIX 200",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-17",
-        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
-        "TM": 80.0,
-        "NonRembourse": 5640.0,
-        "Rembourse": 22560.0,
-        "Autre1": "FLAGYL cp enrob\u00e9 500 mg : 14",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-17",
-        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
-        "TM": 80.0,
-        "NonRembourse": 3280.0,
-        "Rembourse": 13120.0,
-        "Autre1": "PROFENID suppos Ad 100 mg: 12",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-17",
-        "Patient": "ANJARAMAHASOA RAPHAELAMARIE",
-        "TM": 80.0,
-        "NonRembourse": 6060.0,
-        "Rembourse": 24240.0,
-        "Autre1": "ESOFAG 20",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-23",
-        "Patient": "RABE RATINARIVO HENINTSOA",
-        "TM": 80.0,
-        "NonRembourse": 2120.0,
-        "Rembourse": 8480.0,
-        "Autre1": "DOLOWIN PLUS 100MG",
-        "Page": 2
-    },
-    {
-        "Date": "2023-03-09",
+        "Date": "9/03/2023",
         "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
-        "TM": 80.0,
-        "NonRembourse": 6840.0,
-        "Rembourse": 27360.0,
-        "Autre1": "ANGIZAAR 50 B/30 ( Micro Labs Lim",
-        "Page": 3
+        "TM": "80,00",
+        "NonRembourse": "6 840,00",
+        "Rembourse": "27 360,00",
+        "Autre1": "ANGIZAAR 50 B/30 ( Micro Labs Lim"
     },
     {
-        "Date": "2023-03-09",
+        "Date": ")9/03/2023",
         "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
-        "TM": 80.0,
-        "NonRembourse": 3660.0,
-        "Rembourse": 14640.0,
-        "Autre1": "POSITON ONGUENT tube : 30 g",
-        "Page": 3
+        "TM": "80,00",
+        "NonRembourse": "3 660,00",
+        "Rembourse": "14 640,00",
+        "Autre1": "POSITON ONGUENT tube : 30 g"
     },
     {
-        "Date": "2023-03-21",
+        "Date": "21/03/2023",
         "Patient": "RAMANANA INDRA MIHAMINA",
-        "TM": 80.0,
-        "NonRembourse": 5100.0,
-        "Rembourse": 20400.0,
-        "Autre1": "DESLORATADINE 5MG CP",
-        "Page": 3
+        "TM": "80,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "20 400,00",
+        "Autre1": "DESLORATADINE 5MG CP"
     },
     {
-        "Date": "2023-03-23",
+        "Date": "23/03/2023",
         "Patient": "RAHASINIAINA LILIANE",
-        "TM": 80.0,
-        "NonRembourse": 6740.0,
-        "Rembourse": 26960.0,
-        "Autre1": "ANGIZAAR H",
-        "Page": 3
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
     },
     {
-        "Date": "2023-03-20",
+        "Date": "20/03/2023",
         "Patient": "SOILEH ZEHERAH",
-        "TM": 80.0,
-        "NonRembourse": 1180.0,
-        "Rembourse": 4720.0,
-        "Autre1": "CAPTOPRIL 25 mg comp : 30",
-        "Page": 3
+        "TM": "80,00",
+        "NonRembourse": "1 180,00",
+        "Rembourse": "4 720,00",
+        "Autre1": "CAPTOPRIL 25 mg comp : 30"
     },
     {
-        "Date": "2023-03-20",
+        "Date": "20/03/2023",
         "Patient": "SOILEH ZEHERAH",
-        "TM": 80.0,
-        "NonRembourse": 6740.0,
-        "Rembourse": 26960.0,
-        "Autre1": "ANGIZAAR H",
-        "Page": 3
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
     },
     {
-        "Date": "2023-03-20",
-        "Patient": "SOILEH ZEHERAH",
-        "TM": 80.0,
-        "NonRembourse": 8460.0,
-        "Rembourse": 33840.0,
-        "Autre1": "TANAKAN sol buv 40 mg/ml : f130 m",
-        "Page": 3
+        "Date": "20/03/2023",
+        "Patient": "~ SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "8 460,00",
+        "Rembourse": "33 840,00",
+        "Autre1": "TANAKAN sol buv 40 mg/ml : f130 m"
     },
     {
-        "Date": "2023-03-04",
+        "Date": "4/03/2023",
         "Patient": "RAOILISON ARINTSOA SAMUEL",
-        "TM": 90.0,
-        "NonRembourse": 3670.0,
-        "Rembourse": 33030.0,
-        "Autre1": "FUNGIZONE susp buv 100 mg/ml : fi",
-        "Page": 3
+        "TM": "90,00",
+        "NonRembourse": "3 670,00",
+        "Rembourse": "33 030,00",
+        "Autre1": "FUNGIZONE susp buv 100 mg/ml : fi"
     },
     {
-        "Date": "2023-03-06",
+        "Date": "6/03/2023",
         "Patient": "RAOILISON IKORIANTSOA M.",
-        "TM": 90.0,
-        "NonRembourse": 5100.0,
-        "Rembourse": 45900.0,
-        "Autre1": "BACTOCLAV DS BLEU PPS",
-        "Page": 3
+        "TM": "90,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "45 900,00",
+        "Autre1": "BACTOCLAV DS BLEU PPS"
     },
     {
-        "Date": "2023-03-06",
+        "Date": "6/03/2023",
         "Patient": "RAOILISON IKORIANTSOA M.",
-        "TM": 90.0,
-        "NonRembourse": 2120.0,
-        "Rembourse": 19080.0,
-        "Autre1": "CELESTENE sol buv 0,05 % : flcom",
-        "Page": 3
+        "TM": "90,00",
+        "NonRembourse": "2 120,00",
+        "Rembourse": "19 080,00",
+        "Autre1": "CELESTENE sol buv 0,05 % : flcom"
     },
     {
-        "Date": "2023-03-06",
+        "Date": "6/03/2023",
         "Patient": "RAOILISON IKORIANTSOA M.",
-        "TM": 90.0,
-        "NonRembourse": 1690.0,
-        "Rembourse": 15210.0,
-        "Autre1": "VENTOLINE susp p inhalation 100 n",
-        "Page": 3
+        "TM": "90,00",
+        "NonRembourse": "1 690,00",
+        "Rembourse": "15 210,00",
+        "Autre1": "VENTOLINE susp p inhalation 100 n"
     },
     {
-        "Date": "2023-03-11",
+        "Date": "11/03/2023",
         "Patient": "RALAMBONIRINA RIVONIAINA",
-        "TM": 100.0,
-        "NonRembourse": 0.0,
-        "Rembourse": 33400.0,
-        "Autre1": "GRAMOCEF O 200",
-        "Page": 3
+        "TM": "100,00",
+        "NonRembourse": "0,00",
+        "Rembourse": "33 400,00",
+        "Autre1": "GRAMOCEF O 200"
+    },
+    {
+        "Date": "9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "6 840,00",
+        "Rembourse": "27 360,00",
+        "Autre1": "ANGIZAAR 50 B/30 ( Micro Labs Lim"
+    },
+    {
+        "Date": ")9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "3 660,00",
+        "Rembourse": "14 640,00",
+        "Autre1": "POSITON ONGUENT tube : 30 g"
+    },
+    {
+        "Date": "21/03/2023",
+        "Patient": "RAMANANA INDRA MIHAMINA",
+        "TM": "80,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "20 400,00",
+        "Autre1": "DESLORATADINE 5MG CP"
+    },
+    {
+        "Date": "23/03/2023",
+        "Patient": "RAHASINIAINA LILIANE",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "1 180,00",
+        "Rembourse": "4 720,00",
+        "Autre1": "CAPTOPRIL 25 mg comp : 30"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "~ SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "8 460,00",
+        "Rembourse": "33 840,00",
+        "Autre1": "TANAKAN sol buv 40 mg/ml : f130 m"
+    },
+    {
+        "Date": "4/03/2023",
+        "Patient": "RAOILISON ARINTSOA SAMUEL",
+        "TM": "90,00",
+        "NonRembourse": "3 670,00",
+        "Rembourse": "33 030,00",
+        "Autre1": "FUNGIZONE susp buv 100 mg/ml : fi"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "45 900,00",
+        "Autre1": "BACTOCLAV DS BLEU PPS"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "2 120,00",
+        "Rembourse": "19 080,00",
+        "Autre1": "CELESTENE sol buv 0,05 % : flcom"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "1 690,00",
+        "Rembourse": "15 210,00",
+        "Autre1": "VENTOLINE susp p inhalation 100 n"
+    },
+    {
+        "Date": "11/03/2023",
+        "Patient": "RALAMBONIRINA RIVONIAINA",
+        "TM": "100,00",
+        "NonRembourse": "0,00",
+        "Rembourse": "33 400,00",
+        "Autre1": "GRAMOCEF O 200"
+    },
+    {
+        "Date": "9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "6 840,00",
+        "Rembourse": "27 360,00",
+        "Autre1": "ANGIZAAR 50 B/30 ( Micro Labs Lim"
+    },
+    {
+        "Date": ")9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "3 660,00",
+        "Rembourse": "14 640,00",
+        "Autre1": "POSITON ONGUENT tube : 30 g"
+    },
+    {
+        "Date": "21/03/2023",
+        "Patient": "RAMANANA INDRA MIHAMINA",
+        "TM": "80,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "20 400,00",
+        "Autre1": "DESLORATADINE 5MG CP"
+    },
+    {
+        "Date": "23/03/2023",
+        "Patient": "RAHASINIAINA LILIANE",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "1 180,00",
+        "Rembourse": "4 720,00",
+        "Autre1": "CAPTOPRIL 25 mg comp : 30"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "~ SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "8 460,00",
+        "Rembourse": "33 840,00",
+        "Autre1": "TANAKAN sol buv 40 mg/ml : f130 m"
+    },
+    {
+        "Date": "4/03/2023",
+        "Patient": "RAOILISON ARINTSOA SAMUEL",
+        "TM": "90,00",
+        "NonRembourse": "3 670,00",
+        "Rembourse": "33 030,00",
+        "Autre1": "FUNGIZONE susp buv 100 mg/ml : fi"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "45 900,00",
+        "Autre1": "BACTOCLAV DS BLEU PPS"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "2 120,00",
+        "Rembourse": "19 080,00",
+        "Autre1": "CELESTENE sol buv 0,05 % : flcom"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "1 690,00",
+        "Rembourse": "15 210,00",
+        "Autre1": "VENTOLINE susp p inhalation 100 n"
+    },
+    {
+        "Date": "11/03/2023",
+        "Patient": "RALAMBONIRINA RIVONIAINA",
+        "TM": "100,00",
+        "NonRembourse": "0,00",
+        "Rembourse": "33 400,00",
+        "Autre1": "GRAMOCEF O 200"
+    },
+    {
+        "Date": "9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "6 840,00",
+        "Rembourse": "27 360,00",
+        "Autre1": "ANGIZAAR 50 B/30 ( Micro Labs Lim"
+    },
+    {
+        "Date": ")9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "3 660,00",
+        "Rembourse": "14 640,00",
+        "Autre1": "POSITON ONGUENT tube : 30 g"
+    },
+    {
+        "Date": "21/03/2023",
+        "Patient": "RAMANANA INDRA MIHAMINA",
+        "TM": "80,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "20 400,00",
+        "Autre1": "DESLORATADINE 5MG CP"
+    },
+    {
+        "Date": "23/03/2023",
+        "Patient": "RAHASINIAINA LILIANE",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "1 180,00",
+        "Rembourse": "4 720,00",
+        "Autre1": "CAPTOPRIL 25 mg comp : 30"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "~ SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "8 460,00",
+        "Rembourse": "33 840,00",
+        "Autre1": "TANAKAN sol buv 40 mg/ml : f130 m"
+    },
+    {
+        "Date": "4/03/2023",
+        "Patient": "RAOILISON ARINTSOA SAMUEL",
+        "TM": "90,00",
+        "NonRembourse": "3 670,00",
+        "Rembourse": "33 030,00",
+        "Autre1": "FUNGIZONE susp buv 100 mg/ml : fi"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "45 900,00",
+        "Autre1": "BACTOCLAV DS BLEU PPS"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "2 120,00",
+        "Rembourse": "19 080,00",
+        "Autre1": "CELESTENE sol buv 0,05 % : flcom"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "1 690,00",
+        "Rembourse": "15 210,00",
+        "Autre1": "VENTOLINE susp p inhalation 100 n"
+    },
+    {
+        "Date": "11/03/2023",
+        "Patient": "RALAMBONIRINA RIVONIAINA",
+        "TM": "100,00",
+        "NonRembourse": "0,00",
+        "Rembourse": "33 400,00",
+        "Autre1": "GRAMOCEF O 200"
+    },
+    {
+        "Date": "9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "6 840,00",
+        "Rembourse": "27 360,00",
+        "Autre1": "ANGIZAAR 50 B/30 ( Micro Labs Lim"
+    },
+    {
+        "Date": ")9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "3 660,00",
+        "Rembourse": "14 640,00",
+        "Autre1": "POSITON ONGUENT tube : 30 g"
+    },
+    {
+        "Date": "21/03/2023",
+        "Patient": "RAMANANA INDRA MIHAMINA",
+        "TM": "80,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "20 400,00",
+        "Autre1": "DESLORATADINE 5MG CP"
+    },
+    {
+        "Date": "23/03/2023",
+        "Patient": "RAHASINIAINA LILIANE",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "1 180,00",
+        "Rembourse": "4 720,00",
+        "Autre1": "CAPTOPRIL 25 mg comp : 30"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "~ SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "8 460,00",
+        "Rembourse": "33 840,00",
+        "Autre1": "TANAKAN sol buv 40 mg/ml : f130 m"
+    },
+    {
+        "Date": "4/03/2023",
+        "Patient": "RAOILISON ARINTSOA SAMUEL",
+        "TM": "90,00",
+        "NonRembourse": "3 670,00",
+        "Rembourse": "33 030,00",
+        "Autre1": "FUNGIZONE susp buv 100 mg/ml : fi"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "45 900,00",
+        "Autre1": "BACTOCLAV DS BLEU PPS"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "2 120,00",
+        "Rembourse": "19 080,00",
+        "Autre1": "CELESTENE sol buv 0,05 % : flcom"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "1 690,00",
+        "Rembourse": "15 210,00",
+        "Autre1": "VENTOLINE susp p inhalation 100 n"
+    },
+    {
+        "Date": "11/03/2023",
+        "Patient": "RALAMBONIRINA RIVONIAINA",
+        "TM": "100,00",
+        "NonRembourse": "0,00",
+        "Rembourse": "33 400,00",
+        "Autre1": "GRAMOCEF O 200"
+    },
+    {
+        "Date": "9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "6 840,00",
+        "Rembourse": "27 360,00",
+        "Autre1": "ANGIZAAR 50 B/30 ( Micro Labs Lim"
+    },
+    {
+        "Date": ")9/03/2023",
+        "Patient": "RANDRIANANTOANDR O SAHOLY NIRINA",
+        "TM": "80,00",
+        "NonRembourse": "3 660,00",
+        "Rembourse": "14 640,00",
+        "Autre1": "POSITON ONGUENT tube : 30 g"
+    },
+    {
+        "Date": "21/03/2023",
+        "Patient": "RAMANANA INDRA MIHAMINA",
+        "TM": "80,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "20 400,00",
+        "Autre1": "DESLORATADINE 5MG CP"
+    },
+    {
+        "Date": "23/03/2023",
+        "Patient": "RAHASINIAINA LILIANE",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "1 180,00",
+        "Rembourse": "4 720,00",
+        "Autre1": "CAPTOPRIL 25 mg comp : 30"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "6 740,00",
+        "Rembourse": "26 960,00",
+        "Autre1": "ANGIZAAR H"
+    },
+    {
+        "Date": "20/03/2023",
+        "Patient": "~ SOILEH ZEHERAH",
+        "TM": "80,00",
+        "NonRembourse": "8 460,00",
+        "Rembourse": "33 840,00",
+        "Autre1": "TANAKAN sol buv 40 mg/ml : f130 m"
+    },
+    {
+        "Date": "4/03/2023",
+        "Patient": "RAOILISON ARINTSOA SAMUEL",
+        "TM": "90,00",
+        "NonRembourse": "3 670,00",
+        "Rembourse": "33 030,00",
+        "Autre1": "FUNGIZONE susp buv 100 mg/ml : fi"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "5 100,00",
+        "Rembourse": "45 900,00",
+        "Autre1": "BACTOCLAV DS BLEU PPS"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "2 120,00",
+        "Rembourse": "19 080,00",
+        "Autre1": "CELESTENE sol buv 0,05 % : flcom"
+    },
+    {
+        "Date": "6/03/2023",
+        "Patient": "RAOILISON IKORIANTSOA M.",
+        "TM": "90,00",
+        "NonRembourse": "1 690,00",
+        "Rembourse": "15 210,00",
+        "Autre1": "VENTOLINE susp p inhalation 100 n"
+    },
+    {
+        "Date": "11/03/2023",
+        "Patient": "RALAMBONIRINA RIVONIAINA",
+        "TM": "100,00",
+        "NonRembourse": "0,00",
+        "Rembourse": "33 400,00",
+        "Autre1": "GRAMOCEF O 200"
     }
 ]
